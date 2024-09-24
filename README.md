@@ -1,3 +1,11 @@
+<h1 align="left">👋 Hi there, welcome to my Github profile</h1>
+
+###
+
+<p align="left">• My name is Felipe and I'm a Web Developer Full stack, from SC, Brazil</p>
+
+###
+
 <h2 align="left">Techs</h2>
 
 ###
